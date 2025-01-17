@@ -10,3 +10,8 @@
 '''
 
 #1. simple machine with microbit, wukong, red-motor and wheel
+#1. save this file to GitHub - create repository
+#2.  Create content header with (''') block comment
+#2.  Inline comments with (#)
+#3.  Add Wukon extention 
+#4.  Save GitHub
