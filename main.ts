@@ -20,9 +20,11 @@
 while (true) {
     if (input.buttonIsPressed(Button.A)) {
         // run motor
+        // wuKong.set_motor_speed(wuKong.MotorList.M1, 75)
         
     } else if (input.buttonIsPressed(Button.B)) {
         // stop Motor
+        // wuKong.set_motor_speed(wuKong.MotorList.M1, 0)
         
     } else if (input.buttonIsPressed(Button.AB)) {
         // speed motor up

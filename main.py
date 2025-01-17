@@ -20,13 +20,15 @@
 while True:
     if input.button_is_pressed(Button.A):
         #run motor
+        #wuKong.set_motor_speed(wuKong.MotorList.M1, 75)
         pass
     elif input.button_is_pressed(Button.B):
         #stop Motor
+        #wuKong.set_motor_speed(wuKong.MotorList.M1, 0)
         pass
     elif input.button_is_pressed(Button.AB):
         #speed motor up
-                pass
+        pass
     else:
         pass
     
