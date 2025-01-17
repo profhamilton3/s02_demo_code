@@ -15,3 +15,22 @@
 #2.  Inline comments with (#)
 #3.  Add Wukon extention 
 #4.  Save GitHub
+#5.  loop checking for button presses
+#6.  Run motor on Button A, Stop Button B
+while True:
+    if input.button_is_pressed(Button.A):
+        #run motor
+        pass
+    elif input.button_is_pressed(Button.B):
+        #stop Motor
+        pass
+    elif input.button_is_pressed(Button.AB):
+        #speed motor up
+                pass
+    else:
+        pass
+    
+    basic.pause(250)
+
+    #7  Save to GitHub and close
+    #8. Reopen project from repository
